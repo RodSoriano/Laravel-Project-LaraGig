@@ -33,5 +33,4 @@ class Listing
             }
     }
 
-#min41.10
 ?>
