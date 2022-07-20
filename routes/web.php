@@ -33,4 +33,3 @@ Route::get('/listings/{id}', function($id)
             ]);
     });
 
-#1.3
